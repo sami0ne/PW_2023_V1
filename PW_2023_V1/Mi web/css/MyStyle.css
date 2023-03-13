@@ -1,0 +1,29 @@
+h3{
+    color: brown;
+}
+
+#encabezado{
+    color: #ddff00;
+}
+
+.encabezadoClass{
+
+    color:chartreuse;
+    text-align: center;
+    font-family: Verdana;
+}
+
+li,ul{
+    color: crimson;
+    font-family: 'Times New Roman';
+}
+
+.contenedor{
+    border: solid blue;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+}
